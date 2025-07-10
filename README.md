@@ -70,6 +70,8 @@ AI 做原型，提示词案例收录
 
 通用 [v0.dev](https://v0.dev/) 生成的样例： [https://v0-ai-emotion-diary-design.vercel.app/](https://v0-ai-emotion-diary-design.vercel.app/)
 
+![](https://github.com/swiftdo/ai-prototype-prompts/blob/main/imgs/1.png?raw=true)
+
 
 ## 死了么
 
@@ -90,3 +92,5 @@ AI 做原型，提示词案例收录
 ```
 
 通用 [v0.dev](https://v0.dev/) 生成的样例： [https://v0-old-people-safety-app.vercel.app/](https://v0-old-people-safety-app.vercel.app/)
+
+![](https://github.com/swiftdo/ai-prototype-prompts/blob/main/imgs/2.png?raw=true)
